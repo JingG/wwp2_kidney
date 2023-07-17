@@ -1,0 +1,2 @@
+# wwp2_kidney
+Supporting scripts and description for manuscript "WWP2 MEDIATES THE METABOLIC REPROGRAMING OF RENAL MYOFIBROBLASTS TO PROMOTE KIDNEY FIBROSIS"
